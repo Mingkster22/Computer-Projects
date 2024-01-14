@@ -2,7 +2,7 @@
 
 This is a basic Hello World program. I created this to demonstrate the use of Visual Studio Code, Github, and C#.
 
-You can watch a demo of my software here: [Software Demo Video](http://youtube.link.goes.here)
+You can watch a demo of my software here: [Software Demo Video](https://youtu.be/c6jCpWVdcMM)
 
 # Development Environment
 
